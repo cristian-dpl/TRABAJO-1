@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 5;
+}
+
+body{
+    background-color: #273238;
+    color: beige;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: justify;
+}
+
+img{
+    margin-left: 50px;
+}
+
+h2{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif ;
+    font-weight: bold;
+    font-style: oblique;
+    margin: 40px 0;
+}
+
+h2::first-letter{
+    font-size: 30px;
+}
+
+.titulo h1{
+    background-color: #fff;
+    color: #698593;
+    font-size: 50px;
+    font-family: Impact, Charcoal, sans-serif;
+    margin: 40px 0;
+    text-align: center;
+}
+
+.aspiradora h2{
+    color: #E6CBBF;
+}
+
+.aspiradora img{
+    border: 5px solid #E6CBBF;
+    padding: 1px;
+}
+
+.celulares h2{
+    color: #A1C1CB;
+}
+
+.celulares img{
+    border: 5px solid #A1C1CB;
+    padding: 1px;
+}
+
+.consolas h2{
+    color: #BCBDBF;
+}
+
+.consolas img{
+    border: 5px solid #BCBDBF;
+    padding: 1px;
+}
+
+.theaters h2{
+    color: #8D94A1;
+}
+
+.theaters img{
+    border: 5px solid #8D94A1;
+    padding: 1px;
+}
+
+.televisores h2{
+    color: #B2B2AA;
+}
+
+.televisores img{
+    border: 5px solid #B2B2AA;
+    padding: 1px;
+}
